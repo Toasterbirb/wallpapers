@@ -24,7 +24,7 @@ Pretty much everything is from [wallhaven](https://wallhaven.cc/). I don't own t
 ![wallhaven-nrq32m.jpg](./wallhaven-nrq32m.jpg)
 ![wallhaven-ox656m.jpg](./wallhaven-ox656m.jpg)
 ![wallhaven-oxry69.jpg](./wallhaven-oxry69.jpg)
-![wallhaven-p8d6oj.jpg](./wallhaven-p8d6oj.jpg)
+![gentoo](./gentoo-abducted.png)
 ![wallhaven-pk3gdm.jpg](./wallhaven-pk3gdm.jpg)
 ![wallhaven-q6kvw5.jpg](./wallhaven-q6kvw5.jpg)
 ![wallhaven-q6p7y7.png](./wallhaven-q6p7y7.png)
